@@ -11,4 +11,3 @@ git commit -m "menssagem"
 ```
 git push
 ```
-
